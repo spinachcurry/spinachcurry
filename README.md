@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?height=400&text=Welcome%20to%20Yumi%20World!)
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color&type=vemon=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
