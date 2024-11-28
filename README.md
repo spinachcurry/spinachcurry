@@ -39,7 +39,7 @@
 
 ### Statistics
 
-[![Yumi's GitHub status](https://github-readme-status.vercel.app/api?username=spinachcurry)](https://github.com/spinachcurry/github-readme-status)
+[![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=spinachcurry)](https://github.com/spinachcurry/github-readme-stats)
 
 [![Solved.accym8694](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
