@@ -49,9 +49,16 @@ Here are some ideas to get you started:
 ### Statistics
 
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&hide_border=true" width="49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=cym8694&theme=white" width="42%" height="100%" />
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&border_color=000000&hide_border=false" width="49%" height="130%" style="border-radius:10px;" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=cym8694&theme=white" width="42%" height="100%" style="border: 2px solid #000; border-radius: 10px;" />
 </div>
+
+<br clear="left" />
+
+<div>
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&border_color=000000&hide_border=false&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="border-radius:10px;"/>
+</div>
+
 
 <br clear="left" />
 
