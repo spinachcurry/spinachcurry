@@ -22,7 +22,8 @@
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
 </div>
 
-<hr style="border-bottom: 1px solid; width: 100%;" />
+
+
 
 ### Currently Developing Tools
 
