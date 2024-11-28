@@ -35,8 +35,9 @@
 
 ### Statistics
 
+[![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=spinachcurry)](https://github.com/spinachcurry/github-readme-stats)
+
 <div>
-  [![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=spinachcurry)](https://github.com/spinachcurry/github-readme-stats)
   <img alt="Yumi's GitHub Status" align="left" src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&border_color=000000&hide_border=false" width="49%" height="130%" style="border-radius:10px;" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=cym8694&theme=white" width="42%" height="100%" style="border: 2px solid #000; border-radius: 10px;" />
 </div>
