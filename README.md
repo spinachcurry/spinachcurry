@@ -1,6 +1,7 @@
 ## Hi Friends 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi%20Empire!&section=header" />
 <br clear="left" />
+
 - 🔭 I’m currently working on `gym attendance App project`
 - 🌱 I’m currently learning `phthon`
 
@@ -8,11 +9,13 @@
 
 <div width="100%">
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/Java.png" alt="java" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/sts.png" alt="sts" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/hs.png" alt="hs" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/HTML.png" alt="html" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/JavaScript.png" alt="js" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/mariadbdb.png" alt="mariadb" height="50px"/>
+    <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/reactjs.png" alt="react" height="50px"/>
+    <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
 </div>
 
 <br clear="left" />
@@ -22,9 +25,8 @@
 ### Currently Developing Tools
 
 <div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/python.png" alt="python" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/github.png" alt="github" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/python.png" alt="python" height="50px"/>
 </div>
 
 <br clear="left" />
