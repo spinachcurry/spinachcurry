@@ -1,21 +1,9 @@
 ## Hi Friends 👋
 
-<!--
-**spinachcurry/spinachcurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on `gym attendance App project`
+- 🌱 I’m currently learning `phthon`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=250&text=Welcome%20to%20Yumi%20Empire!&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi%20Empire!&section=header" />
 
 
 ### Main Tools
@@ -57,11 +45,4 @@ Here are some ideas to get you started:
 
 <div>
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&border_color=000000&hide_border=false&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="border-radius:10px;"/>
-</div>
-
-
-<br clear="left" />
-
-<div>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&langs_count=8&layout=compact&border_color=000000&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
