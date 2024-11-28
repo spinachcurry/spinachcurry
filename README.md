@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F3ABBC&height=250&text=Welcome%20to%20Yumi%20World!&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=250&text=Welcome%20to%20Yumi%20World!&section=header" />
