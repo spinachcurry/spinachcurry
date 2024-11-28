@@ -2,7 +2,7 @@
 
 ## Hi Friends 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header style="width: 100%;"/>
 
 - 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
