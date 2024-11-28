@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?height=400&text=Welcome%20to%20Yumi%20World!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=height=400&text=Welcome%20to%20Yumi%20World!)
 
+![header](https://capsule-render.vercel.app/api?type=slice)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
