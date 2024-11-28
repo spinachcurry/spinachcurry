@@ -41,7 +41,7 @@
 
 [![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=spinachcurry)](https://github.com/spinachcurry/github-readme-stats)
 
-[![Solved.accym8694](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cym8694)](https://solved.ac/cym8694/)
 
 <div>
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&border_color=000000&hide_border=false&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="border-radius:10px;"/>
