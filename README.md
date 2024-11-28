@@ -4,14 +4,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6666FF&height=150&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header" style="width: 100%;" />
 
-<div style="border-top:10px;">
 - 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
-</div>
 
-<hr style="border-bottom: 1px solid; width: 100%;" />
+###
+<br>
 
-<h3> Main Tools </h3>
+## Main Tools
 
 <div width="100%" style="border-bottom: 1px solid; width:100%">
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/Java.png" alt="java" height="50px"/>
@@ -23,19 +22,23 @@
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/reactjs.png" alt="react" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
 </div>
+
 <br>
 <br>
-<h3>Currently Developing Tools</h3>
+<br>
+
+## Currently Developing Tools
 
 <div width="100%">
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/github.png" alt="github" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/python.png" alt="python" height="50px"/>
 </div>
+
+<br>
 <br>
 <br>
 
-<hr style="border-bottom: 1px solid; width: 100%;" />
-<h3>Statistics</h3>
+## Statistics
 
 [![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=spinachcurry)](https://github.com/spinachcurry/github-readme-stats)
 
