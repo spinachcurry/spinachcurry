@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi%20Empire!&section=header" />
 <br clear="left" />
 
-- 🔭 I’m currently working on `gym attendance App project`
-- 🌱 I’m currently learning `phthon`
+- 🔭 I’m currently working on `Gym Attendance App Project`
+- 🌱 I’m currently learning `Python`
 
 ### Main Tools
 
