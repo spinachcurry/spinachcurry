@@ -2,10 +2,12 @@
 
 ## Hi Friends 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header style="width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6666FF&height=150&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header" style="width: 100%;" />
 
+<div style="border-top:10px;">
 - 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
+</div>
 
 <hr style="border-bottom: 1px solid; width: 100%;" />
 
