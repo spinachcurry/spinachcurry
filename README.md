@@ -9,9 +9,9 @@
 
 <hr style="border-bottom: 1px solid; width: 100%;" />
 
-### Main Tools
+<h3> Main Tools </h3>
 
-<div width="100%">
+<div width="100%" style="border-bottom: 1px solid; width:100%">
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/Java.png" alt="java" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/sts.png" alt="sts" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/hs.png" alt="hs" height="50px"/>
@@ -21,20 +21,19 @@
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/reactjs.png" alt="react" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
 </div>
-
-
-
-
-### Currently Developing Tools
+<br>
+<br>
+<h3>Currently Developing Tools</h3>
 
 <div width="100%">
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/github.png" alt="github" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/python.png" alt="python" height="50px"/>
 </div>
+<br>
+<br>
 
 <hr style="border-bottom: 1px solid; width: 100%;" />
-
-### Statistics
+<h3>Statistics</h3>
 
 [![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=spinachcurry)](https://github.com/spinachcurry/github-readme-stats)
 
