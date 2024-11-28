@@ -1,4 +1,3 @@
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspinachcurry&count_bg=%23E8E307&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Hi Friends 👋
@@ -8,6 +7,7 @@
 - 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
 
+<hr style="border-bottom: 1px solid; width: 100%;" />
 
 ### Main Tools
 
@@ -18,10 +18,11 @@
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/HTML.png" alt="html" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/JavaScript.png" alt="js" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/mariadbdb.png" alt="mariadb" height="50px"/>
-    <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/reactjs.png" alt="react" height="50px"/>
-    <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/reactjs.png" alt="react" height="50px"/>
+  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
 </div>
----
+
+<hr style="border-bottom: 1px solid; width: 100%;" />
 
 ### Currently Developing Tools
 
@@ -29,7 +30,8 @@
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/github.png" alt="github" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/python.png" alt="python" height="50px"/>
 </div>
----
+
+<hr style="border-bottom: 1px solid; width: 100%;" />
 
 ### Statistics
 
