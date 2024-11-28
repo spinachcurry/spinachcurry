@@ -3,11 +3,11 @@
 
 ## Hi Friends 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header" style="margin-bottom: 0px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header"/>
 
 - 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
-<br>
+<hr style="border: 0.7px solid black; width: 100%;" />
 ### Main Tools
 
 <div width="100%">
@@ -21,7 +21,7 @@
     <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
 </div>
 
-<br>
+<hr style="border: 0.7px solid black; width: 100%;" />
 
 ---
 
@@ -32,7 +32,7 @@
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/python.png" alt="python" height="50px"/>
 </div>
 
-<br>
+<hr style="border: 0.7px solid black; width: 100%;" />
 
 ---
 
