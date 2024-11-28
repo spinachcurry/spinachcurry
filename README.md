@@ -3,10 +3,10 @@
 
 ## Hi Friends 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=30&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header" style="margin-bottom: 10px;" />
 <br clear="left" />
 
-- 🔭 I’m currently working on `Gym Attendance App Project`
+- 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
 
 ### Main Tools
