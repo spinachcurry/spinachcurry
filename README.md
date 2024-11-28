@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
 
-<hr style="border-bottom: 1px solid; width: 100%;" />
+<hr style="border-bottom: 0.5px solid; width: 100%;" />
 
 <h3> Main Tools </h3>
 
