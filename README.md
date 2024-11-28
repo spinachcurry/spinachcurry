@@ -3,7 +3,7 @@
 
 ## Hi Friends 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header"style="margin-bottom:10px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3DAF1&height=200&text=Welcome%20to%20Yumi's%20Empire!&fontSize=50&section=header"/>
 
 - 🔭 I’m currently working on `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
@@ -21,10 +21,6 @@
     <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/reactjs.png" alt="react" height="50px"/>
     <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
 </div>
-
-<!--<hr style="border: 0.2px solid black; width: 100%;" />
--->
-
 ---
 
 ### Currently Developing Tools
@@ -33,8 +29,6 @@
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/github.png" alt="github" height="50px"/>
   <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/python.png" alt="python" height="50px"/>
 </div>
-<hr style="border: 0.2px solid black; width: 100%;" />
-
 ---
 
 ### Statistics
