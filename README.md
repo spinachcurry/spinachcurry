@@ -14,14 +14,14 @@
 ## Main Tools
 
 <div width="100%" style="border-bottom: 1px solid; width:100%">
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/Java.png" alt="java" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/sts.png" alt="sts" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/hs.png" alt="hs" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/HTML.png" alt="html" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/JavaScript.png" alt="js" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/mariadbdb.png" alt="mariadb" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/reactjs.png" alt="react" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/vscode.png" alt="vscode" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/157a37d4-b0e3-4d93-ac37-a7b07ab1dc97" alt="java" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/ee470486-8045-4e43-8b81-c447aabe4a78" alt="sts" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/bca24e49-3c7a-49b6-9538-d7aab119941f" alt="hs" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/9b44d47d-abc1-4b22-a3ef-2f1d7c1afb8d" alt="html" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/5e71744c-1dfb-46ab-ab60-b3df91317a8e" alt="js" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/2800ce53-95ba-40c9-a32b-a1a0be211c4a" alt="mariadb" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/b9896807-b85f-439e-b51e-8961a2758a27" alt="react" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/33012fd1-e86a-4fd8-9ac4-40fd06a3916b" alt="vscode" height="50px"/>
 </div>
 
 <br>
@@ -31,8 +31,10 @@
 ## Currently Developing Tools
 
 <div width="100%">
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/github.png" alt="github" height="50px"/>
-  <img align="left" src="https://github.com/spinachcurry/Icons/blob/main/python.png" alt="python" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/bbdec66c-4030-48b6-969c-43cbcfd91cf8" alt="github" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/9b44d47d-abc1-4b22-a3ef-2f1d7c1afb8d" alt="python" height="50px"/>
+  <img align="left" src="https://github.com/user-attachments/assets/ee470486-8045-4e43-8b81-c447aabe4a78"
+alt="js" height="50px"/>
 </div>
 
 <br>
