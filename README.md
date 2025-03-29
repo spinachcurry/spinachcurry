@@ -1,8 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspinachcurry&count_bg=%23E8E307&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Hi Friends 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6666FF&height=150&text=Welcome%20to%20Yumi%20Empire!&fontSize=50&section=header" style="width: 100%;" />
+## Hi Friends 👋
 
 - 🔭 I’m currently working on the `Gym Attendance App Project`<br>
 - 🌱 I’m currently learning `Python`
